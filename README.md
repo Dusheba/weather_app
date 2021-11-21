@@ -1,6 +1,6 @@
-# flutter_app
+# Weather app
 
-Forecast app with weather's API
+A simple forecast app with weather's API
 
 ## Getting Started
 
